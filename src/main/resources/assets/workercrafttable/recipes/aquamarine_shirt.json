@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "group": "artist",
+  "ingredients": [
+    {
+      "item": "lifeitemmod:silver_ring"
+    },
+    {
+      "item": "lifeitemmod:blue_fabric"
+    }
+  ],
+  "result": {
+    "item": "lifeitemmod:aquamarine_shirt",
+    "count": 1
+  }
+}

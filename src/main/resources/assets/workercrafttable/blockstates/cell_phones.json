@@ -1,0 +1,29 @@
+{
+    "variants": {
+        "normal": { "model": "workercrafttable:cell_phones" },
+        "facing=up":
+        {
+            "model": "workercrafttable:cell_phones"
+        },
+        "facing=south":
+        {
+            "model": "workercrafttable:cell_phones","y": 180
+        },
+        "facing=west":
+        {
+            "model": "workercrafttable:cell_phones","y": 270
+        },
+        "facing=east":
+        {
+            "model": "workercrafttable:cell_phones","y": 90
+        },
+        "facing=north":
+        {
+            "model": "workercrafttable:cell_phones"
+        },
+        "facing=down":
+        {
+            "model": "workercrafttable:cell_phones"
+        }
+    }
+}

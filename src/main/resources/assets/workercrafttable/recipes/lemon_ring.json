@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "group": "artist",
+  "ingredients": [
+    {
+      "item": "lifeitemmod:whiskey"
+    },
+    {
+      "item": "lifeitemmod:silver_ring"
+    }
+  ],
+  "result": {
+    "item": "lifeitemmod:lemon_ring",
+    "count": 1
+  }
+}

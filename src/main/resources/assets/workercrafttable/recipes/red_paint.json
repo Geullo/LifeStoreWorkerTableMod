@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "artist",
+  "pattern": [
+    " # ",
+    " # ",
+    " A "
+  ],
+  "key": {
+    "#":
+    {
+      "item": "minecraft:dye",
+      "data": 1
+    },
+    "A":
+    {
+      "item": "lifeitemmod:paint_tube"
+    }
+  },
+  "result": {
+    "item": "lifeitemmod:red_paint",
+    "count": 1
+  }
+}

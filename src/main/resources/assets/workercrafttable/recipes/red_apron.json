@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "group": "artist",
+  "ingredients": [
+    {
+      "item": "lifeitemmod:picture"
+    },
+    {
+      "item": "lifeitemmod:red_fabric"
+    }
+  ],
+  "result": {
+    "item": "lifeitemmod:red_apron",
+    "count": 1
+  }
+}

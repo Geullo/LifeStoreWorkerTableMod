@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "chef",
+  "pattern": [
+    " A ",
+    "A#A",
+    " A "
+  ],
+  "key": {
+    "#":
+    {
+      "item": "lifeitemmod:cabbage"
+    },
+    "A":
+    {
+      "item": "lifeitemmod:pepper"
+    }
+  },
+  "result": {
+    "item": "lifeitemmod:instance_kimchi",
+    "count": 1
+  }
+}

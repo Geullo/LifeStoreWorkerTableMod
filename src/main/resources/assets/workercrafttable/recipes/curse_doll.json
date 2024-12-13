@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "group": "artist",
+  "ingredients": [
+    {
+      "item": "lifeitemmod:favor_charm"
+    },
+    {
+      "item": "lifeitemmod:burin"
+    }
+  ],
+  "result": {
+    "item": "lifeitemmod:curse_doll",
+    "count": 1
+  }
+}

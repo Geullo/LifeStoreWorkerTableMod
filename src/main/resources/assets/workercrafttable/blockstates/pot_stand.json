@@ -1,0 +1,28 @@
+{
+    "variants": {
+        "facing=up":
+                {
+                    "model": "workercrafttable:pot_stand"
+                },
+                "facing=south":
+                {
+                    "model": "workercrafttable:pot_stand"
+                },
+                "facing=east":
+                {
+                    "model": "workercrafttable:pot_stand","y": 270
+                },
+                "facing=west":
+                {
+                    "model": "workercrafttable:pot_stand","y": 90
+                },
+                "facing=north":
+                {
+                    "model": "workercrafttable:pot_stand","y": 180
+                },
+                "facing=down":
+                {
+                    "model": "workercrafttable:pot_stand"
+                }
+    }
+}

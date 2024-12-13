@@ -1,0 +1,29 @@
+{
+  "variants": {
+    "normal": { "model": "workercrafttable:life_city_model_1/block" },
+    "facing=up":
+    {
+      "model": "workercrafttable:life_city_model_1/block"
+    },
+    "facing=south":
+    {
+      "model": "workercrafttable:life_city_model_1/block"
+    },
+    "facing=west":
+    {
+      "model": "workercrafttable:life_city_model_1/block","y": 90
+    },
+    "facing=east":
+    {
+      "model": "workercrafttable:life_city_model_1/block","y": 270
+    },
+    "facing=north":
+    {
+      "model": "workercrafttable:life_city_model_1/block","y": 180
+    },
+    "facing=down":
+    {
+      "model": "workercrafttable:life_city_model_1/block"
+    }
+  }
+}

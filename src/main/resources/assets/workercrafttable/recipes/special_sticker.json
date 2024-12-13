@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "group": "artist",
+  "ingredients": [
+    {
+      "item": "lifeitemmod:drawing_paper"
+    },
+    {
+      "item": "lifeitemmod:dding_seal"
+    }
+  ],
+  "result": {
+    "item": "lifeitemmod:special_sticker",
+    "count": 1
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "group": "artist",
+  "ingredients": [
+    {
+      "item": "lifeitemmod:hot_noodle"
+    },
+    {
+      "item": "lifeitemmod:music1"
+    },
+    {
+      "item": "lifeitemmod:box"
+    }
+  ],
+  "result": {
+    "item": "lifeitemmod:hot_noodle_edition",
+    "count": 1
+  }
+}

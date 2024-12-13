@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "jeweler",
+  "pattern":
+          [
+            "#",
+            "A"
+          ],
+  "key":
+  {
+    "#":
+    {
+      "item": "minecraft:diamond"
+    },
+    "A":
+    {
+      "item": "lifeitemmod:silver_ring"
+    }
+  },
+
+  "result": {
+    "item": "lifeitemmod:diamond_ring",
+    "count": 1
+  }
+}

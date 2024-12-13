@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "###",
+    " A "
+  ],
+  "key": {
+    "#":
+      {
+        "item": "lifeitemmod:egg_bread"
+      },
+    "A":
+      {
+        "item": "lifeitemmod:small_box"
+      }
+  },
+  
+  "result": {
+    "item": "lifeitemmod:egg_bread_bundle",
+    "count": 1
+  }
+}

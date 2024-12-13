@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "artist",
+  "pattern": [
+    "###",
+    "A A",
+    "A A"
+  ],
+  "key": {
+    "#":
+    {
+      "item": "minecraft:planks",
+      "data": 0
+    },
+    "A":
+    {
+      "item": "minecraft:log",
+      "data": 0
+    }
+  },
+  "result": {
+    "item": "lifeitemmod:oak_table",
+    "count": 1
+  }
+}

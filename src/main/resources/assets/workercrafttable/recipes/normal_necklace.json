@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "jeweler",
+  "pattern":
+          [
+            "# #",
+            "# #",
+            " # "
+          ],
+  "key":
+  {
+    "#":
+    {
+      "item": "minecraft:iron_ingot"
+    }
+  },
+
+  "result": {
+    "item": "lifeitemmod:normal_necklace",
+    "count": 1
+  }
+}

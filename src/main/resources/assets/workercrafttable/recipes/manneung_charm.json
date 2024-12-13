@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "shaman",
+  "pattern": [
+    "#",
+    "#",
+    "#"
+  ],
+  "key": {
+    "#":
+      {
+        "item": "lifeitemmod:charm"
+      }
+  },
+  "result": {
+    "item": "lifeitemmod:manneung_charm",
+    "count": 1
+  }
+}

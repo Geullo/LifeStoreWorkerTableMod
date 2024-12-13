@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "shaman",
+  "pattern": [
+    "#A#",
+    "A A",
+    "#A#"
+  ],
+  "key": {
+    "#":
+      {
+        "item": "minecraft:stick"
+      },
+    "A":
+      {
+        "item": "lifeitemmod:beads_ball"
+      }
+  },
+  "result": {
+    "item": "lifeitemmod:beads",
+    "count": 1
+  }
+}

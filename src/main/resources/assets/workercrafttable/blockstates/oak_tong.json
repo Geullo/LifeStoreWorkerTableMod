@@ -1,0 +1,29 @@
+{
+    "variants": {
+        "normal": { "model": "workercrafttable:oak_tong" },
+        "facing=up":
+        {
+            "model": "workercrafttable:oak_tong","x": 90
+        },
+        "facing=south":
+        {
+            "model": "workercrafttable:oak_tong"
+        },
+        "facing=east":
+        {
+            "model": "workercrafttable:oak_tong","y": 270
+        },
+        "facing=west":
+        {
+            "model": "workercrafttable:oak_tong","y": 90
+        },
+        "facing=north":
+        {
+            "model": "workercrafttable:oak_tong","y": 180
+        },
+        "facing=down":
+        {
+            "model": "workercrafttable:oak_tong","x": -90
+        }
+    }
+}

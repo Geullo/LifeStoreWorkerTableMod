@@ -1,0 +1,5 @@
+{
+  "variants": {
+    "color=white": { "model": "workercrafttable:life_city_glass/block" }
+  }
+}

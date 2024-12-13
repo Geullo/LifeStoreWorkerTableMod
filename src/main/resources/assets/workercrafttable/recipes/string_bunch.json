@@ -1,0 +1,29 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "designer",
+  "pattern": [
+    "#A"
+  ],
+  "key": {
+    "#":[
+      {
+        "item": "minecraft:string"
+      },
+      {
+        "item": "minecraft:stick"
+      }
+    ],
+    "A":[
+      {
+        "item": "minecraft:string"
+      },
+      {
+        "item": "minecraft:stick"
+      }
+    ]
+  },
+  "result": {
+    "item": "lifeitemmod:string_bunch",
+    "count": 1
+  }
+}

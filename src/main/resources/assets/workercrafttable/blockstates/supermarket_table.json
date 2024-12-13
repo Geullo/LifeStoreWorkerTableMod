@@ -1,0 +1,29 @@
+{
+    "variants": {
+        "normal": { "model": "workercrafttable:supermarket_table" },
+        "facing=up":
+        {
+            "model": "workercrafttable:supermarket_table"
+        },
+        "facing=down":
+        {
+            "model": "workercrafttable:supermarket_table"
+        },
+        "facing=south":
+        {
+            "model": "workercrafttable:supermarket_table","y": 180
+        },
+        "facing=east":
+        {
+            "model": "workercrafttable:supermarket_table","y": 90
+        },
+        "facing=west":
+        {
+            "model": "workercrafttable:supermarket_table","y": 270
+        },
+        "facing=north":
+        {
+            "model": "workercrafttable:supermarket_table"
+        }
+    }
+}

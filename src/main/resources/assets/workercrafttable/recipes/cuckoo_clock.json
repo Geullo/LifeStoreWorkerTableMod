@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "furniture",
+  "pattern": [
+    "A",
+    "#",
+    "#"
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:log",
+      "data": 1
+    },
+    "A": {
+      "item": "lifeitemmod:spruce_clock"
+    }
+  },
+  "result": {
+    "item": "lifeitemmod:cuckoo_clock",
+    "count": 1
+  }
+}

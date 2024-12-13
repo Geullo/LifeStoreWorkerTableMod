@@ -1,0 +1,9 @@
+{
+  "parent": "block/upper_slab",
+  "textures":
+  {
+    "bottom": "workercrafttable:blocks/city_12",
+    "top" : "workercrafttable:blocks/city_12",
+    "side" : "workercrafttable:blocks/city_12"
+  }
+}

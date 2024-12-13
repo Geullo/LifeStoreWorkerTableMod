@@ -1,0 +1,29 @@
+{
+    "variants": {
+        "normal": { "model": "workercrafttable:shaman_table" },
+        "facing=up":
+        {
+            "model": "workercrafttable:shaman_table"
+        },
+        "facing=down":
+        {
+            "model": "workercrafttable:shaman_table"
+        },
+        "facing=south":
+        {
+            "model": "workercrafttable:shaman_table","y": 180
+        },
+        "facing=east":
+        {
+            "model": "workercrafttable:shaman_table","y": 90
+        },
+        "facing=west":
+        {
+            "model": "workercrafttable:shaman_table","y": 270
+        },
+        "facing=north":
+        {
+            "model": "workercrafttable:shaman_table"
+        }
+    }
+}

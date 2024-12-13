@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "designer",
+  "pattern": [
+    "###"
+  ],
+  "key": {
+    "#":
+    {
+      "item": "minecraft:string"
+    }
+  },
+  "result": {
+    "item": "lifeitemmod:lace",
+    "count": 1
+  }
+}

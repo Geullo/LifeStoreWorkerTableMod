@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "group": "artist",
+  "ingredients": [
+    {
+      "item": "lifeitemmod:instance_kimchi"
+    },
+    {
+      "item": "lifeitemmod:hot_bread"
+    },
+    {
+      "item": "lifeitemmod:box"
+    }
+  ],
+  "result": {
+    "item": "lifeitemmod:hot_kimchi_box",
+    "count": 1
+  }
+}

@@ -1,0 +1,29 @@
+{
+    "variants": {
+        "normal": { "model": "workercrafttable:cauldron" },
+        "facing=up":
+        {
+            "model": "workercrafttable:cauldron"
+        },
+        "facing=south":
+        {
+            "model": "workercrafttable:cauldron","y": 180
+        },
+        "facing=west":
+        {
+            "model": "workercrafttable:cauldron","y": 270
+        },
+        "facing=east":
+        {
+            "model": "workercrafttable:cauldron","y": 90
+        },
+        "facing=north":
+        {
+            "model": "workercrafttable:cauldron"
+        },
+        "facing=down":
+        {
+            "model": "workercrafttable:cauldron"
+        }
+    }
+}

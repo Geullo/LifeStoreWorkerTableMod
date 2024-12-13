@@ -1,0 +1,34 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "shaman",
+  "pattern": [
+    " A ",
+    "A#A",
+    " A "
+  ],
+  "key": {
+    "#":
+      {
+        "item": "lifeitemmod:charm"
+      },
+    "A":
+      [
+        {
+          "item": "minecraft:red_flower",
+          "data": 8
+        },
+        {
+          "item": "minecraft:double_plant",
+          "data": 4
+        },
+        {
+          "item": "minecraft:double_plant",
+          "data": 1
+        }
+      ]
+  },
+  "result": {
+    "item": "lifeitemmod:favor_charm",
+    "count": 1
+  }
+}

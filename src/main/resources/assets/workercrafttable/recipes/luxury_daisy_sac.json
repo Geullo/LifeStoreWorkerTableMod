@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "shaman",
+  "pattern": [
+    "A#A",
+    " B "
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:red_flower",
+      "data": 8
+    },
+    "A": {
+      "item": "lifeitemmod:charm"
+    },
+    "B": {
+      "item": "lifeitemmod:pocket"
+    }
+  },
+  "result": {
+    "item": "lifeitemmod:luxury_daisy_sac",
+    "count": 1
+  }
+}

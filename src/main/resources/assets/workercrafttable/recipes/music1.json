@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "artist",
+  "pattern": [
+    "#",
+    "#",
+    "#"
+  ],
+  "key": {
+    "#":
+    {
+      "item": "lifeitemmod:note"
+    }
+  },
+  "result": {
+    "item": "lifeitemmod:music1",
+    "count": 1
+  }
+}

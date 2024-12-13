@@ -1,0 +1,29 @@
+{
+    "variants": {
+        "normal": { "model": "workercrafttable:atm" },
+        "facing=up":
+        {
+            "model": "workercrafttable:atm"
+        },
+        "facing=south":
+        {
+            "model": "workercrafttable:atm","y": 180
+        },
+        "facing=west":
+        {
+            "model": "workercrafttable:atm","y": 270
+        },
+        "facing=east":
+        {
+            "model": "workercrafttable:atm","y": 90
+        },
+        "facing=north":
+        {
+            "model": "workercrafttable:atm"
+        },
+        "facing=down":
+        {
+            "model": "workercrafttable:atm"
+        }
+    }
+}

@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "jeweler",
+  "pattern":
+          [
+            " # ",
+            "# #",
+            " # "
+          ],
+  "key":
+  {
+    "#":
+    {
+      "item": "minecraft:gold_ingot"
+    }
+  },
+
+  "result": {
+    "item": "lifeitemmod:golden_ring",
+    "count": 1
+  }
+}

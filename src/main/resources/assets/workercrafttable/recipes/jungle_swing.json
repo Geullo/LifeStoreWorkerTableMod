@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "artist",
+  "pattern": [
+    "###",
+    "# #",
+    " A "
+  ],
+  "key": {
+    "#":
+    {
+      "item": "minecraft:planks",
+      "data": 3
+    },
+    "A":
+    {
+      "item": "lifeitemmod:jungle_rocking_chair"
+    }
+  },
+  "result": {
+    "item": "lifeitemmod:jungle_swing",
+    "count": 1
+  }
+}

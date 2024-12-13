@@ -1,0 +1,129 @@
+tile.career_table.name=2차 직업 조합대
+tile.oak_tong.name=오크통
+tile.artist_table.name=예술가 작업대
+tile.cauldron.name=가마솥
+tile.designer_table.name=의복사 작업대
+tile.furniture_maker_table.name=목수 작업대
+tile.jeweler_table.name=보석상 작업대
+tile.shaman_table.name=무당 작업대
+tile.supermarket_table.name=슈퍼 점장 작업대
+tile.pot_stand.name=장독대
+tile.shaman_table_1.name=무당 작업대
+
+
+tile.atm.name=ATM
+tile.coin_change_machine_1.name=코인->직업
+tile.coin_change_machine_2.name=직업->코인
+tile.coin_change_machine_3.name=코인->스탯포인트
+
+item.d7297_business_card.name=§c양띵§f의 명함
+item.daju__business_card.name=§5다주§f의 명함
+item.huchu95_business_card.name=§7후추§f의 명함
+item.kong7_business_card.name=§a콩콩§f의 명함
+item.noonkkob_business_card.name=§f눈꽃§f의 명함
+item.rutaey_business_card.name=§b루태§f의 명함
+item.samsik23_business_card.name=§6삼식§f의 명함
+item.seoneng_business_card.name=§d서넹§f의 명함
+
+item.shaman_employment_agency.name=§f무당 직업 추천서
+item.furniture_maker_employment_agency.name=§f목수 직업 추천서
+item.jeweler_employment_agency.name=§f보석상 직업 추천서
+item.artist_employment_agency.name=§f예술가 직업 추천서
+item.chef_employment_agency.name=§f요리사 직업 추천서
+item.designer_employment_agency.name=§f의복사 직업 추천서
+item.barkeeper_employment_agency.name=§f조주사 직업 추천서
+item.supermarket_employment_agency.name=§f슈퍼 직업 추천서
+
+item.miner_job_coin.name=§f광부 직업 코인
+item.lumber_jack_job_coin.name=§f나무꾼 직업 코인
+item.hunter_job_coin.name=§f사냥꾼 직업 코인
+item.farmer_job_coin.name=§f농부 직업 코인
+
+item.berenty_village_token.name=§f베렌티마을 증표
+item.ekeulle_village_token.name=§f에클레마을 증표
+item.popo_village_token.name=§f포포마을 증표
+item.piosa_village_token.name=§f피오사마을 증표
+item.haldeseu_village_token.name=§f할데스마을 증표
+item.likability_coupon.name=§f호감도 쿠폰
+item.warning.name=§c경고장
+item.sand_shovel.name=§f유리 삽
+
+
+item.cell_phone.name=§f휴대폰
+
+itemGroup.tabWorkerCraftTable=직업 작업대 목록
+itemGroup.tabItems=기타 아이템
+itemGroup.tabCity=도시 블럭
+item.meal_coupon.name=§f식권
+
+tile.life_city_block_1.name=1번 도시 블럭
+tile.life_city_slab_half_1.name=1번 도시 반블럭
+tile.life_city_slab_double_1.name=1번 도시 중첩 블럭
+tile.life_city_stairs_1.name=1번 도시 계단 블럭
+
+tile.life_city_block_2.name=2번 도시 블럭
+tile.life_city_slab_half_2.name=2번 도시 반블럭
+tile.life_city_slab_double_2.name=2번 도시 중첩 블럭
+tile.life_city_stairs_2.name=2번 도시 계단 블럭
+
+tile.life_city_block_3.name=3번 도시 블럭
+tile.life_city_slab_half_3.name=3번 도시 반블럭
+tile.life_city_slab_double_3.name=3번 도시 중첩 블럭
+tile.life_city_stairs_3.name=3번 도시 계단 블럭
+
+tile.life_city_block_4.name=4번 도시 블럭
+tile.life_city_slab_half_4.name=4번 도시 반블럭
+tile.life_city_slab_double_4.name=4번 도시 중첩 블럭
+tile.life_city_stairs_4.name=4번 도시 계단 블럭
+
+tile.life_city_block_5.name=5번 도시 블럭
+tile.life_city_slab_half_5.name=5번 도시 반블럭
+tile.life_city_slab_double_5.name=5번 도시 중첩 블럭
+tile.life_city_stairs_5.name=5번 도시 계단 블럭
+
+tile.life_city_block_6.name=6번 도시 블럭
+tile.life_city_slab_half_6.name=6번 도시 반블럭
+tile.life_city_slab_double_6.name=6번 도시 중첩 블럭
+tile.life_city_stairs_6.name=6번 도시 계단 블럭
+
+tile.life_city_block_7.name=7번 도시 블럭
+tile.life_city_slab_half_7.name=7번 도시 반블럭
+tile.life_city_slab_double_7.name=7번 도시 중첩 블럭
+tile.life_city_stairs_7.name=7번 도시 계단 블럭
+
+tile.life_city_block_8.name=8번 도시 블럭
+tile.life_city_slab_half_8.name=8번 도시 반블럭
+tile.life_city_slab_double_8.name=8번 도시 중첩 블럭
+tile.life_city_stairs_8.name=8번 도시 계단 블럭
+
+tile.life_city_block_9.name=9번 도시 블럭
+tile.life_city_slab_half_9.name=9번 도시 반블럭
+tile.life_city_slab_double_9.name=9번 도시 중첩 블럭
+tile.life_city_stairs_9.name=9번 도시 계단 블럭
+
+tile.life_city_block_10.name=10번 도시 블럭
+tile.life_city_slab_half_10.name=10번 도시 반블럭
+tile.life_city_slab_double_10.name=10번 도시 중첩 블럭
+tile.life_city_stairs_10.name=10번 도시 계단 블럭
+
+tile.life_city_block_11.name=11번 도시 블럭
+tile.life_city_slab_half_11.name=11번 도시 반블럭
+tile.life_city_slab_double_11.name=11번 도시 중첩 블럭
+tile.life_city_stairs_11.name=11번 도시 계단 블럭
+
+tile.life_city_block_12.name=12번 도시 블럭
+tile.life_city_slab_half_12.name=12번 도시 반블럭
+tile.life_city_slab_double_12.name=12번 도시 중첩 블럭
+tile.life_city_stairs_12.name=12번 도시 계단 블럭
+
+tile.life_city_block_model_1.name=1번 도시 모델링 블럭
+tile.life_city_block_model_2.name=2번 도시 모델링 블럭
+
+tile.num_1.name=1번
+tile.num_2.name=2번
+tile.num_3.name=3번
+tile.num_4.name=4번
+
+effect.stat_upgrade=강화 확률 증가
+potion.effect.stat_upgrade=강화 확률 증가 포션
+item.omr_card.name=§6OMR 카드

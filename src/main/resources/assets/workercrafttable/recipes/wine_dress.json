@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "group": "artist",
+  "ingredients": [
+    {
+      "item": "lifeitemmod:cloth"
+    },
+    {
+      "item": "lifeitemmod:wine"
+    }
+  ],
+  "result": {
+    "item": "lifeitemmod:wine_dress",
+    "count": 1
+  }
+}

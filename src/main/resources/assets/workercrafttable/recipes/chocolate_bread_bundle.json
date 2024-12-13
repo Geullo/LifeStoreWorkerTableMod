@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "###",
+    " A "
+  ],
+  "key": {
+    "#":
+      {
+        "item": "lifeitemmod:chocolate_bread"
+      },
+    "A":
+      {
+        "item": "lifeitemmod:small_box"
+      }
+  },
+  
+  "result": {
+    "item": "lifeitemmod:chocolate_bread_bundle",
+    "count": 1
+  }
+}

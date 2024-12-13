@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "shaman",
+  "pattern": [
+    "#",
+    "A"
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:double_plant",
+      "data": 4
+    },
+    "A": {
+      "item": "lifeitemmod:pocket"
+    }
+  },
+  "result": {
+    "item": "lifeitemmod:rose_sac",
+    "count": 1
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "designer",
+  "pattern": [
+    "##",
+    "##"
+  ],
+  "key": {
+    "#":
+    {
+      "item": "minecraft:wool",
+      "data": 11
+    }
+  },
+  "result": {
+    "item": "lifeitemmod:blue_fabric",
+    "count": 1
+  }
+}

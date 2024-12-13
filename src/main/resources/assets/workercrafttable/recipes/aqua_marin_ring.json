@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "jeweler",
+  "pattern":
+          [
+            "#",
+            "A"
+          ],
+  "key":
+  {
+    "#":
+    {
+      "item": "lifeitemmod:aquamarine_ingot"
+    },
+    "A":
+    {
+      "item": "lifeitemmod:golden_ring"
+    }
+  },
+
+  "result": {
+    "item": "lifeitemmod:aqua_marin_ring",
+    "count": 1
+  }
+}

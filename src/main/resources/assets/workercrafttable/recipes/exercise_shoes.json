@@ -1,0 +1,27 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "designer",
+  "pattern": [
+    "# #",
+    "A A",
+    "B B"
+  ],
+  "key": {
+    "#":
+    {
+      "item": "lifeitemmod:lace"
+    },
+    "A":
+    {
+      "item": "lifeitemmod:cloth"
+    },
+    "B":
+    {
+      "item": "lifeitemmod:white_leather"
+    }
+  },
+  "result": {
+    "item": "lifeitemmod:exercise_shoes",
+    "count": 1
+  }
+}

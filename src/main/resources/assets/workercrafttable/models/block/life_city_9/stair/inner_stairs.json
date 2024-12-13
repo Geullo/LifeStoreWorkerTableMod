@@ -1,0 +1,8 @@
+{
+  "parent": "block/inner_stairs",
+  "textures": {
+    "bottom": "workercrafttable:blocks/city_9",
+    "top": "workercrafttable:blocks/city_9",
+    "side": "workercrafttable:blocks/city_9"
+  }
+}

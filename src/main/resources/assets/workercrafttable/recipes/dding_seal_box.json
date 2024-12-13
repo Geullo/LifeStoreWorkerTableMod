@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "###",
+    "#A#",
+    "###"
+  ],
+  "key": {
+    "#":
+      {
+        "item": "lifeitemmod:dding_seal"
+      },
+    "A":
+      {
+        "item": "lifeitemmod:box"
+      }
+  },
+  
+  "result": {
+    "item": "lifeitemmod:dding_seal_box",
+    "count": 1
+  }
+}

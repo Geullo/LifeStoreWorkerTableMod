@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "super",
+  "pattern": [
+    "#AB"
+  ],
+  "key": {
+    "#": {
+      "item": "lifeitemmod:chocolate"
+    },
+    "A": {
+      "item": "minecraft:milk_bucket"
+    },
+    "B": {
+      "item": "lifeitemmod:plastic_bag"
+    }
+  },
+  "result": {
+    "item": "lifeitemmod:chocolate_milk",
+    "count": 1
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "group": "artist",
+  "ingredients": [
+    {
+      "item": "lifeitemmod:daisy_sac"
+    },
+    {
+      "item": "lifeitemmod:whiskey"
+    }
+  ],
+  "result": {
+    "item": "lifeitemmod:lemon_diffuser",
+    "count": 1
+  }
+}

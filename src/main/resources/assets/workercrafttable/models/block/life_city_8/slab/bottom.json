@@ -1,0 +1,9 @@
+{
+  "parent": "block/half_slab",
+  "textures":
+  {
+    "bottom" : "workercrafttable:blocks/city_8",
+    "top": "workercrafttable:blocks/city_8",
+    "side": "workercrafttable:blocks/city_8"
+  }
+}

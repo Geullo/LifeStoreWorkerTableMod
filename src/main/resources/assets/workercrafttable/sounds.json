@@ -1,0 +1,94 @@
+{
+   "job.furniture_maker.craft.complete":{
+      "sounds":[{
+         "attenuation_distance": 6,
+         "name":"workercrafttable:furniture_maker",
+         "volume": 0.5,
+         "category":"block"
+      }]
+   },
+   "job.shaman.craft.complete":{
+      "sounds":[{
+         "attenuation_distance": 6,
+         "name":"workercrafttable:shaman",
+         "volume": 0.5,
+         "category":"block"
+      }]
+   },
+   "job.jeweler.craft.complete":{
+      "sounds":[{
+         "attenuation_distance": 6,
+         "name":"workercrafttable:jeweler",
+         "volume": 0.5,
+         "category":"block"
+      }]
+   },
+   "job.artist.craft.complete":{
+      "sounds":[{
+         "attenuation_distance": 6,
+         "name":"workercrafttable:artist",
+         "volume": 0.5,
+         "category":"block"
+      }]
+   },
+   "job.chef.craft.complete":{
+      "sounds":[{
+         "attenuation_distance": 6,
+         "name":"workercrafttable:chef",
+         "volume": 0.4,
+         "category":"block"
+      }]
+   },
+   "job.designer.craft.complete":{
+      "sounds":[{
+         "attenuation_distance": 6,
+         "name":"workercrafttable:designer",
+         "volume": 0.5,
+         "category":"block"
+      }]
+   },
+   "job.barkeeper.craft.complete":{
+      "sounds":[{
+         "attenuation_distance": 6,
+         "name":"workercrafttable:bar_keeper",
+         "volume": 0.55,
+         "category":"block"
+      }]
+   },
+   "job.supermarket.craft.complete": {
+      "sounds": [
+         {
+            "name": "workercrafttable:supermarket",
+            "volume": 0.5,
+            "category":"block"
+         }
+      ]
+   },
+   "send_money": {
+      "sounds": [
+         {
+            "name": "workercrafttable:send_money",
+            "volume": 0.55,
+            "category":"players"
+         }
+      ]
+   },
+   "broadcast": {
+      "sounds": [
+         {
+            "name": "workercrafttable:broadcast",
+            "volume": 0.55,
+            "category":"players"
+         }
+      ]
+   },
+   "whisper": {
+      "sounds": [
+         {
+            "name": "workercrafttable:whisper",
+            "volume": 0.55,
+            "category":"players"
+         }
+      ]
+   }
+}

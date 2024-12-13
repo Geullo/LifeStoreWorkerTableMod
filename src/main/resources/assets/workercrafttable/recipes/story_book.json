@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "artist",
+  "pattern": [
+    "#AB"
+  ],
+  "key": {
+    "#":
+    {
+      "item": "minecraft:leather"
+    },
+    "A":
+    {
+      "item": "lifeitemmod:picture"
+    },
+    "B":
+    {
+      "item": "minecraft:string"
+    }
+  },
+  "result": {
+    "item": "lifeitemmod:story_book",
+    "count": 1
+  }
+}

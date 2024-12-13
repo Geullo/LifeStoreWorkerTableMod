@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "artist",
+  "pattern": [
+    "# #",
+    "#A#",
+    "# #"
+  ],
+  "key": {
+    "#":
+    {
+      "item": "minecraft:log2",
+      "data": 1
+    },
+    "A":
+    {
+      "item": "lifeitemmod:darkoak_cupboard"
+    }
+  },
+  "result": {
+    "item": "lifeitemmod:darkoak_jagaejang",
+    "count": 1
+  }
+}

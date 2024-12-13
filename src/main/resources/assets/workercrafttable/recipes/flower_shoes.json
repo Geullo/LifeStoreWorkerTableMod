@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "group": "artist",
+  "ingredients": [
+    {
+      "item": "lifeitemmod:artificial_leather"
+    },
+    {
+      "item": "lifeitemmod:lavender_sac"
+    }
+  ],
+  "result": {
+    "item": "lifeitemmod:flower_shoes",
+    "count": 1
+  }
+}

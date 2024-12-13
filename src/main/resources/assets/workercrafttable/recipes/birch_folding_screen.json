@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "artist",
+  "pattern": [
+    "###"
+  ],
+  "key": {
+    "#":
+    {
+      "item": "lifeitemmod:birch_fan"
+    }
+  },
+  "result": {
+    "item": "lifeitemmod:birch_folding_screen",
+    "count": 1
+  }
+}

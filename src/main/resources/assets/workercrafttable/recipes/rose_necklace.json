@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "group": "artist",
+  "ingredients": [
+    {
+      "item": "lifeitemmod:rose_sac"
+    },
+    {
+      "item": "lifeitemmod:normal_necklace"
+    }
+  ],
+  "result": {
+    "item": "lifeitemmod:rose_necklace",
+    "count": 1
+  }
+}

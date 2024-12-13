@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "###",
+    "#A#",
+    "###"
+  ],
+  "key": {
+    "#":
+      {
+        "item": "lifeitemmod:hot_bread"
+      },
+    "A":
+      {
+        "item": "lifeitemmod:box"
+      }
+  },
+  
+  "result": {
+    "item": "lifeitemmod:hot_bread_box",
+    "count": 1
+  }
+}

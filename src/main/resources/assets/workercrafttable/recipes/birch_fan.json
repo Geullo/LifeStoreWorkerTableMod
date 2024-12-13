@@ -1,0 +1,28 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "artist",
+  "pattern": [
+    "###",
+    "#B#",
+    " A "
+  ],
+  "key": {
+    "#":
+    {
+      "item": "minecraft:planks",
+      "data": 2
+    },
+    "A":
+    {
+      "item": "minecraft:stick"
+    },
+    "B":
+    {
+      "item": "lifeitemmod:burin"
+    }
+  },
+  "result": {
+    "item": "lifeitemmod:birch_fan",
+    "count": 1
+  }
+}

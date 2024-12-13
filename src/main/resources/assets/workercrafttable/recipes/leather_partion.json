@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "group": "artist",
+  "ingredients": [
+    {
+      "item": "lifeitemmod:birch_fan"
+    },
+    {
+      "item": "lifeitemmod:artificial_leather"
+    }
+  ],
+  "result": {
+    "item": "lifeitemmod:leather_partion",
+    "count": 1
+  }
+}

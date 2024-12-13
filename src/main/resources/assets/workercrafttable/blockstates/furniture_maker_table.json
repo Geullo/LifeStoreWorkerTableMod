@@ -1,0 +1,29 @@
+{
+    "variants": {
+        "normal": { "model": "workercrafttable:furniture_maker_table" },
+        "facing=up":
+        {
+            "model": "workercrafttable:furniture_maker_table"
+        },
+        "facing=down":
+        {
+            "model": "workercrafttable:furniture_maker_table"
+        },
+        "facing=south":
+        {
+            "model": "workercrafttable:furniture_maker_table"
+        },
+        "facing=east":
+        {
+            "model": "workercrafttable:furniture_maker_table","y": 270
+        },
+        "facing=west":
+        {
+            "model": "workercrafttable:furniture_maker_table","y": 90
+        },
+        "facing=north":
+        {
+            "model": "workercrafttable:furniture_maker_table","y": 180
+        }
+    }
+}

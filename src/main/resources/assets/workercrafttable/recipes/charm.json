@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "shaman",
+  "pattern": [
+    "#",
+    "A",
+    "A"
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:dye",
+      "data": 1
+    },
+    "A": {
+      "item": "minecraft:paper"
+    }
+  },
+  "result": {
+    "item": "lifeitemmod:charm",
+    "count": 1
+  }
+}

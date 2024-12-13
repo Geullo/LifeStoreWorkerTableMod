@@ -1,0 +1,27 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "artist",
+  "pattern": [
+    "#",
+    "A",
+    "B"
+  ],
+  "key": {
+    "#":
+    {
+      "item": "lifeitemmod:picture"
+    },
+    "A":
+    {
+      "item": "lifeitemmod:cd2"
+    },
+    "B":
+    {
+      "item": "minecraft:iron_ingot"
+    }
+  },
+  "result": {
+    "item": "lifeitemmod:album2",
+    "count": 1
+  }
+}

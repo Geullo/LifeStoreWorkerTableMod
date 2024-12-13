@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "group": "artist",
+  "ingredients": [
+    {
+      "item": "lifeitemmod:music1"
+    },
+    {
+      "item": "lifeitemmod:bubble"
+    }
+  ],
+  "result": {
+    "item": "lifeitemmod:music_box",
+    "count": 1
+  }
+}

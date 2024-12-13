@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "artist",
+  "pattern": [
+    "#",
+    "A"
+  ],
+  "key": {
+    "#":
+    {
+      "item": "lifeitemmod:music3"
+    },
+    "A":
+    {
+      "item": "lifeitemmod:empty_cd"
+    }
+  },
+  "result": {
+    "item": "lifeitemmod:cd3",
+    "count": 1
+  }
+}

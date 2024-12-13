@@ -1,0 +1,29 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "artist",
+  "pattern": [
+    "AAA",
+    "ABA",
+    "###"
+  ],
+  "key": {
+    "#":
+    {
+      "item": "minecraft:log",
+      "data": 1
+    },
+    "A":
+    {
+      "item": "minecraft:planks",
+      "data": 1
+    },
+    "B":
+    {
+      "item": "lifeitemmod:burin"
+    }
+  },
+  "result": {
+    "item": "lifeitemmod:spruce_clock",
+    "count": 1
+  }
+}

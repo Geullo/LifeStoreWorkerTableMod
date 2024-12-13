@@ -1,0 +1,29 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "artist",
+  "pattern": [
+    "  #",
+    "AAA",
+    "#B#"
+  ],
+  "key": {
+    "#":
+    {
+      "item": "minecraft:log",
+      "data": 3
+    },
+    "A":
+    {
+      "item": "minecraft:wooden_slab",
+      "data": 3
+    },
+    "B":
+    {
+      "item": "lifeitemmod:burin"
+    }
+  },
+  "result": {
+    "item": "lifeitemmod:jungle_rocking_chair",
+    "count": 1
+  }
+}

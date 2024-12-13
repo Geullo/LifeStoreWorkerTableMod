@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "group": "artist",
+  "ingredients": [
+    {
+      "item": "lifeitemmod:silver_necklace"
+    },
+    {
+      "item": "lifeitemmod:blue_fabric"
+    }
+  ],
+  "result": {
+    "item": "lifeitemmod:chung_necklace",
+    "count": 1
+  }
+}

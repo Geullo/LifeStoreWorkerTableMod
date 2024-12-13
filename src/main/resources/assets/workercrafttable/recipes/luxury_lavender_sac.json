@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "shaman",
+  "pattern": [
+    "A#A",
+    " B "
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:double_plant",
+      "data": 1
+    },
+    "A": {
+      "item": "lifeitemmod:charm"
+    },
+    "B": {
+      "item": "lifeitemmod:pocket"
+    }
+  },
+  "result": {
+    "item": "lifeitemmod:luxury_lavender_sac",
+    "count": 1
+  }
+}

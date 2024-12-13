@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "designer",
+  "pattern": [
+    "# #",
+    "###",
+    "###"
+  ],
+  "key": {
+    "#":
+    {
+      "item": "lifeitemmod:blue_fabric"
+    }
+  },
+  "result": {
+    "item": "lifeitemmod:blue_tshirt",
+    "count": 1
+  }
+}

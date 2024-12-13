@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "super",
+  "pattern": [
+    "#AB"
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:water_bucket"
+    },
+    "A": {
+      "item": "minecraft:wheat"
+    },
+    "B": {
+      "item": "minecraft:egg"
+    }
+  },
+  "result": {
+    "item": "lifeitemmod:noodle",
+    "count": 1
+  }
+}

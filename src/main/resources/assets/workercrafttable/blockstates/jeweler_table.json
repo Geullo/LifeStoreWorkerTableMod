@@ -1,0 +1,29 @@
+{
+    "variants": {
+        "normal": { "model": "workercrafttable:jeweler_table" },
+        "facing=up":
+        {
+            "model": "workercrafttable:jeweler_table"
+        },
+        "facing=down":
+        {
+            "model": "workercrafttable:jeweler_table"
+        },
+        "facing=south":
+        {
+            "model": "workercrafttable:jeweler_table","y": 180
+        },
+        "facing=east":
+        {
+            "model": "workercrafttable:jeweler_table","y": 90
+        },
+        "facing=west":
+        {
+            "model": "workercrafttable:jeweler_table","y": 270
+        },
+        "facing=north":
+        {
+            "model": "workercrafttable:jeweler_table"
+        }
+    }
+}

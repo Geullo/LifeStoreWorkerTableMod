@@ -1,0 +1,29 @@
+{
+    "variants": {
+        "normal": { "model": "workercrafttable:designer_table" },
+        "facing=up":
+        {
+            "model": "workercrafttable:designer_table"
+        },
+        "facing=down":
+        {
+            "model": "workercrafttable:designer_table"
+        },
+        "facing=south":
+        {
+            "model": "workercrafttable:designer_table"
+        },
+        "facing=east":
+        {
+            "model": "workercrafttable:designer_table","y": 270
+        },
+        "facing=west":
+        {
+            "model": "workercrafttable:designer_table","y": 90
+        },
+        "facing=north":
+        {
+            "model": "workercrafttable:designer_table","y": 180
+        }
+    }
+}

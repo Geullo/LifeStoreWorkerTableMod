@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "artist",
+  "pattern": [
+    "###"
+  ],
+  "key": {
+    "#":
+    {
+      "item": "minecraft:paper"
+    }
+  },
+  "result": {
+    "item": "lifeitemmod:drawing_paper",
+    "count": 1
+  }
+}

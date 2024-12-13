@@ -1,0 +1,8 @@
+{
+  "parent": "block/stairs",
+  "textures": {
+    "bottom": "workercrafttable:blocks/city_6",
+    "top": "workercrafttable:blocks/city_6",
+    "side": "workercrafttable:blocks/city_6"
+  }
+}

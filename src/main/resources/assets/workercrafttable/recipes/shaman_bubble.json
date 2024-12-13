@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "shaman",
+  "pattern": [
+    " # ",
+    "###",
+    " A "
+  ],
+  "key": {
+    "#":
+    {
+      "item": "lifeitemmod:bubble"
+    },
+    "A":
+    {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "lifeitemmod:shaman_bubble",
+    "count": 1
+  }
+}

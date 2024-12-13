@@ -1,0 +1,17 @@
+{
+
+  "type": "minecraft:crafting_shapeless",
+  "group": "artist",
+  "ingredients": [
+    {
+      "item": "lifeitemmod:golden_ring"
+    },
+    {
+      "item": "lifeitemmod:darkoak_cupboard"
+    }
+  ],
+  "result": {
+    "item": "lifeitemmod:ruby_jagaejang",
+    "count": 1
+  }
+}

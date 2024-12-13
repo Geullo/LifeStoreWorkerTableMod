@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "group": "artist",
+  "ingredients": [
+    {
+      "item": "lifeitemmod:cloth"
+    },
+    {
+      "item": "lifeitemmod:bubble"
+    }
+  ],
+  "result": {
+    "item": "lifeitemmod:mubok",
+    "count": 1
+  }
+}

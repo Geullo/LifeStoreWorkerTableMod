@@ -1,0 +1,29 @@
+{
+    "variants": {
+        "normal": { "model": "workercrafttable:fake_block" },
+        "facing=up":
+        {
+            "model": "workercrafttable:fake_block"
+        },
+        "facing=south":
+        {
+            "model": "workercrafttable:fake_block","y": 180
+        },
+        "facing=west":
+        {
+            "model": "workercrafttable:fake_block","y": 270
+        },
+        "facing=east":
+        {
+            "model": "workercrafttable:fake_block","y": 90
+        },
+        "facing=north":
+        {
+            "model": "workercrafttable:fake_block"
+        },
+        "facing=down":
+        {
+            "model": "workercrafttable:fake_block"
+        }
+    }
+}

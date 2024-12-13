@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "group": "artist",
+  "ingredients": [
+    {
+      "item": "lifeitemmod:charm"
+    },
+    {
+      "item": "lifeitemmod:drawing_paper"
+    }
+  ],
+  "result": {
+    "item": "lifeitemmod:dream_catcher",
+    "count": 1
+  }
+}

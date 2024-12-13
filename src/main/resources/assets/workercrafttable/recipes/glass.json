@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "jeweler",
+  "pattern":
+          [
+            " A ",
+            "# #",
+            " # "
+          ],
+  "key":
+  {
+    "#":
+    {
+      "item": "minecraft:glass"
+    },
+    "A":
+    {
+      "item": "minecraft:iron_ingot"
+    }
+  },
+
+  "result": {
+    "item": "lifeitemmod:glass",
+    "count": 1
+  }
+}

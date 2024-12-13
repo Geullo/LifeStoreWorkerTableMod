@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "artist",
+  "pattern": [
+    "#A#"
+  ],
+  "key": {
+    "#":
+    {
+      "item": "lifeitemmod:oak_chair"
+    },
+    "A":
+    {
+      "item": "lifeitemmod:oak_table"
+    }
+  },
+  "result": {
+    "item": "lifeitemmod:oak_food_table",
+    "count": 1
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "super",
+  "pattern": [
+    "#A"
+  ],
+  "key": {
+    "#": {
+      "item": "lifeitemmod:chocolate_bread"
+    },
+    "A": {
+      "item": "lifeitemmod:dding_seal"
+    }
+  },
+  "result": {
+    "item": "lifeitemmod:chocolate_seal",
+    "count": 1
+  }
+}

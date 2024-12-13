@@ -1,0 +1,7 @@
+{
+  "variants":
+  {
+    "half=bottom,variant=default": {"model":  "workercrafttable:life_city_8/slab/bottom"},
+    "half=top,variant=default": {"model":  "workercrafttable:life_city_8/slab/top"}
+  }
+}

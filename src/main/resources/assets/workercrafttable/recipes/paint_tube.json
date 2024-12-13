@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "artist",
+  "pattern": [
+    "#",
+    "A",
+    "A"
+  ],
+  "key": {
+    "#":
+    {
+      "item": "lifeitemmod:iron_ingot"
+    },
+    "A":
+    {
+      "item": "minecraft:iron_ingot"
+    }
+  },
+  "result": {
+    "item": "lifeitemmod:paint_tube",
+    "count": 1
+  }
+}

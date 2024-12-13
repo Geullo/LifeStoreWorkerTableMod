@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "group": "artist",
+  "ingredients": [
+    {
+      "item": "lifeitemmod:dding_seal"
+    },
+    {
+      "item": "lifeitemmod:charm"
+    },
+    {
+      "item": "lifeitemmod:box"
+    }
+  ],
+  "result": {
+    "item": "lifeitemmod:charm_box",
+    "count": 1
+  }
+}

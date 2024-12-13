@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "super",
+  "pattern": [
+    "#AB"
+  ],
+  "key": {
+    "#": {
+      "item": "lifeitemmod:pepper"
+    },
+    "A": {
+      "item": "lifeitemmod:noodle"
+    },
+    "B": {
+      "item": "lifeitemmod:plastic_bag"
+    }
+  },
+  "result": {
+    "item": "lifeitemmod:hot_noodle",
+    "count": 1
+  }
+}

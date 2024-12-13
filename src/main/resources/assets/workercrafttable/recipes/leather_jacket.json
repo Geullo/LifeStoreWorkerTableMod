@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "designer",
+  "pattern": [
+    "# #",
+    "###",
+    "###"
+  ],
+  "key": {
+    "#":
+    {
+      "item": "lifeitemmod:black_leather"
+    }
+  },
+  "result": {
+    "item": "lifeitemmod:leather_jacket",
+    "count": 1
+  }
+}

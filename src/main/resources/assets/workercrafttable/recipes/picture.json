@@ -1,0 +1,53 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "artist",
+  "pattern": [
+    "#AB",
+    " C "
+  ],
+  "key": {
+    "#":[
+      {
+        "item": "lifeitemmod:red_paint"
+      },
+      {
+        "item": "lifeitemmod:blue_paint"
+      },
+      {
+        "item": "lifeitemmod:green_paint"
+      }
+    ],
+    "A":
+    [
+      {
+        "item": "lifeitemmod:red_paint"
+      },
+      {
+        "item": "lifeitemmod:blue_paint"
+      },
+      {
+        "item": "lifeitemmod:green_paint"
+      }
+    ],
+    "B":
+    [
+      {
+        "item": "lifeitemmod:red_paint"
+      },
+      {
+        "item": "lifeitemmod:blue_paint"
+      },
+      {
+        "item": "lifeitemmod:green_paint"
+      }
+    ],
+    "C":
+    {
+      "item": "lifeitemmod:drawing_paper"
+    }
+  },
+  "result": {
+    "item": "lifeitemmod:picture",
+    "count": 1
+  }
+}

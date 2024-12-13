@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "artist",
+  "pattern": [
+    "A A",
+    "###"
+  ],
+  "key": {
+    "#":
+    {
+      "item": "minecraft:wooden_slab",
+      "data": 4
+    },
+    "A":
+    {
+      "item": "lifeitemmod:acacia_bird"
+    }
+  },
+  "result": {
+    "item": "lifeitemmod:wonang_pair",
+    "count": 1
+  }
+}

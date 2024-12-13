@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "group": "artist",
+  "ingredients": [
+    {
+      "item": "lifeitemmod:oak_table"
+    },
+    {
+      "item": "lifeitemmod:wine"
+    }
+  ],
+  "result": {
+    "item": "lifeitemmod:wine_table",
+    "count": 1
+  }
+}

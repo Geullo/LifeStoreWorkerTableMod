@@ -1,0 +1,31 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "designer",
+  "pattern": [
+    "#A"
+  ],
+  "key": {
+    "#":[
+      {
+        "item": "minecraft:dye",
+        "data": 0
+      },
+      {
+        "item": "lifeitemmod:artificial_leather"
+      }
+    ],
+    "A":[
+      {
+        "item": "minecraft:dye",
+        "data": 0
+      },
+      {
+        "item": "lifeitemmod:artificial_leather"
+      }
+    ]
+  },
+  "result": {
+    "item": "lifeitemmod:black_leather",
+    "count": 1
+  }
+}
